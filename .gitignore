@@ -1,0 +1,4 @@
+# Ignore data folder for git commits
+data/
+# also aa.mp4
+aa.mp4
